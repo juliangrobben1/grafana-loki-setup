@@ -1,0 +1,7 @@
+loki-logging-stack/
+│
+├── docker-compose.yml
+├── loki-config.yml
+├── promtail-config.yml
+├── README.md
+└── .gitignore
